@@ -4,14 +4,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=victorbenatti&theme=radical&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Meus Troféus GitHub"/>
-  </a>
-</div>
-
-<div align="center">
   <p><strong>Gráfico de Contribuições:</strong></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorbenatti&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="Minhas Contribuições Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorbenatti&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="Minhas Contribuições Streak">
 </div>
 
 <br>
