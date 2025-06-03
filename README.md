@@ -40,7 +40,7 @@
       </td>
     </tr>
     <tr>
-      <td width="100%" valign="top" align="center" colspan="2"> {/* Terceiro projeto centralizado */}
+      <td width="100%" valign="top" align="center" colspan="2">
         <a href="https://github.com/victorbenatti/desafio-flutter-web" target="_blank">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorbenatti&repo=desafio-flutter-web&theme=radical&description_lines_count=2" />
         </a>
