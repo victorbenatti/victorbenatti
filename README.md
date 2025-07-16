@@ -82,17 +82,17 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h4 align="center">🌐 Desafio Flutter Web</h4>
       <p align="center"><i>Um projeto de desafio para praticar o desenvolvimento web utilizando o framework Flutter.</i></p>
       <a href="https://github.com/victorbenatti/desafio-flutter-web" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorbenatti&repo=desafio-flutter-web&theme=tokyonight&description_lines_count=2" />
       </a>
     </td>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h4 align="center">⚽ Site Arena Brazuka</h4>
       <p align="center"><i>Um projeto real onde estou desenvolvendo um website completo para uma Arena de Futevôlei.</i></p>
-      <a href="https://github.com/victorbenatti/desafio-flutter-web" target="_blank">
+      <a href="https://github.com/victorbenatti/arena-brazuka" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorbenatti&repo=desafio-flutter-web&theme=tokyonight&description_lines_count=2" />
       </a>
     </td>
