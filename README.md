@@ -1,112 +1,142 @@
-<div align="center">
-  <h1>
-    Olá! Eu sou o Victor Benatti 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+## 👨‍💻 Sobre Mim
 
-### 👨‍💻 Sobre Mim
-<p>
-  Sou um amante do esporte e estudante de tecnologia apaixonado por criar soluções inovadoras. Meu foco principal é o <strong>desenvolvimento web em Typescript e React</strong>, e estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias no ecossistema mobile, que é uma área que gosto e me interesso bastante.
-</p>
+Desenvolvedor e empreendedor, estudante de **Análise e Desenvolvimento de Sistemas**, com foco na criação de **produtos digitais, SaaS, automações e soluções com Inteligência Artificial**.
 
-- 🌱 Atualmente, estou aprofundando meus conhecimentos em **Typescript** e **React, além de estar aprendendo bastante sobre o banco de dados não relacional Firestore(Firebase)**.
-- 🤔 Tenho grande interesse em **UI/UX Design** para criar interfaces bonitas e intuitivas.
+Atualmente, atuo principalmente no desenvolvimento e crescimento de negócios de tecnologia, buscando unir **software, produto, vendas e estratégia** para resolver problemas reais de empresas.
 
-<br>
+Tenho experiência construindo aplicações completas, desde a interface e experiência do usuário até banco de dados, integrações, automações e implementação de IA.
 
-### 🛠️ Minhas Habilidades
-<p align="center">
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="45" height="45"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="45" height="45"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-  </a>
-</p>
+---
 
-<br>
+## 🛠️ Minhas Habilidades
 
-<details>
-  <summary>📊 Minhas Estatísticas do GitHub</summary>
-  <br>
-  <p align="center">
-    <a href="https://github.com/victorbenatti">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorbenatti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&line_height=21"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbenatti&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-    </a>
-  </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorbenatti&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="Minhas Contribuições Streak">
-  </p>
-</details>
+**Front-end**
 
-<br>
+* TypeScript
+* JavaScript
+* React
+* Vite
+* Tailwind CSS
+* HTML & CSS
 
-### 🚀 Projetos em Destaque
-<p align="center">Abaixo estão alguns projetos que desenvolvi. Clique para conferir o repositório!</p>
+**Back-end & Banco de Dados**
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">🛒 Cursos E-commerce</h4>
-      <p align="center"><i>Um app de e-commerce focado na venda de cursos, construído com Kotlin e boas práticas de desenvolvimento Android.</i></p>
-      <a href="https://github.com/victorbenatti/cursosEcom" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=victorbenatti&repo=cursosEcom&theme=tokyonight&description_lines_count=2" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">📱 Calculadora</h4>
-      <p align="center"><i>Uma calculadora funcional para Android. Um ótimo projeto para praticar lógica e interface de usuário no ambiente nativo.</i></p>
-      <a href="https://github.com/victorbenatti/CalculatorApp" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=victorbenatti&repo=CalculatorApp&theme=tokyonight&description_lines_count=2" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">🌐 Desafio Flutter Web</h4>
-      <p align="center"><i>Um projeto de desafio para praticar o desenvolvimento web utilizando o framework Flutter.</i></p>
-      <a href="https://github.com/victorbenatti/desafio-flutter-web" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorbenatti&repo=desafio-flutter-web&theme=tokyonight&description_lines_count=2" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">⚽ Site Arena Brazuka</h4>
-      <p align="center"><i>Um projeto real onde estou desenvolvendo um website completo para uma Arena de Futevôlei.</i></p>
-      <a href="https://github.com/victorbenatti/arena-brazuka" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorbenatti&repo=desafio-flutter-web&theme=tokyonight&description_lines_count=2" />
-      </a>
-    </td>
-  </tr>
-</table>
+* Node.js
+* Supabase
+* PostgreSQL
+* Firebase
+* MySQL
+* APIs REST
+* Autenticação e controle de acesso
 
-<br>
+**Inteligência Artificial & Automação**
 
-### 📫 Conecte-se Comigo
-<p align="center">
-  <a href="mailto:victorbenatti13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/victor-benatti-681551287/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+* OpenAI API
+* Claude
+* Gemini
+* Agentes de IA
+* n8n
+* Integrações com APIs
+* Automação de processos
+
+**Ferramentas & Desenvolvimento**
+
+* Git & GitHub
+* VS Code
+* Docker
+* Railway
+* Figma
+* Desenvolvimento assistido por IA
+
+**Outros interesses**
+
+* SaaS
+* Product Development
+* UI/UX
+* Automação
+* Empreendedorismo
+* Vendas B2B
+* Inteligência Artificial aplicada a negócios
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🏟️ PILLAR
+
+SaaS de gestão inteligente desenvolvido para **arenas esportivas**.
+
+O PILLAR centraliza a operação da arena e ajuda gestores a terem mais controle sobre alunos, turmas, professores, quadras, agenda, financeiro e outras áreas do negócio.
+
+Além da gestão operacional, o projeto explora o uso de **dados e Inteligência Artificial** para gerar insights e apoiar decisões dos gestores.
+
+**Principais tecnologias:**
+`React` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL` `IA`
+
+---
+
+### ⚡ FAST
+
+Empresa de tecnologia focada no desenvolvimento de **sistemas inteligentes sob medida, automações, integrações e soluções com IA** para empresas.
+
+A proposta da FAST é entender problemas operacionais reais e transformá-los em tecnologia que simplifique processos, centralize informações e aumente a eficiência das empresas.
+
+**Soluções desenvolvidas:**
+
+* Sistemas web personalizados
+* Workspaces internos
+* Dashboards
+* Automações
+* Integrações entre plataformas
+* Aplicações de Inteligência Artificial
+* Sistemas de gestão
+
+---
+
+### 💎 LUMI Imports
+
+Operação de venda de **perfumes árabes e importados**, onde também aplico tecnologia para melhorar a gestão do negócio.
+
+Desenvolvi ferramentas para auxiliar no controle de:
+
+* Produtos
+* Estoque
+* Vendas
+* Clientes
+* Custos
+* Margens
+* Financeiro
+
+O projeto também funciona como laboratório para aplicar conceitos de **tecnologia, gestão, marketing e vendas em uma operação real**.
+
+---
+
+## 🎯 O que estou construindo
+
+Meu foco atualmente está em evoluir na interseção entre:
+
+**Tecnologia + Produto + IA + Negócios**
+
+Tenho interesse especial em construir soluções que não sejam apenas tecnicamente interessantes, mas que consigam **resolver problemas reais, gerar receita e se transformar em negócios escaláveis**.
+
+---
+
+## 📫 Conecte-se Comigo
+
+Estou sempre aberto a conversar sobre:
+
+* Tecnologia
+* SaaS
+* Inteligência Artificial
+* Automação
+* Desenvolvimento de produtos
+* Empreendedorismo
+* Parcerias e novos projetos
+
+**LinkedIn:** [https://www.linkedin.com/in/victor-benatti/]
+**Instagram:** [https://www.instagram.com/victor.benatti/]
+**E-mail:** [contato.fastdev@gmail.com]
+
+---
+
+> Construindo tecnologia para operações reais.
